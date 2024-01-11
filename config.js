@@ -11,15 +11,15 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["8801853262586","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801853262586","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801928502256"];
+global.Owner = ['254796199930'];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ['254796199930'];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ['254796199930'];
 global.OwnerName = "Slasher";
 global.BotName = "XLICON-MD";
 global.packname = "X-2.0 Bot";                             //Do not change.
